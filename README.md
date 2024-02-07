@@ -4,7 +4,7 @@
 
 **Prerequisites:**
 
-- Python 3.11 or later
+- Python 3.10 or later
 - Replicate account and API token
 
 **Steps:**
